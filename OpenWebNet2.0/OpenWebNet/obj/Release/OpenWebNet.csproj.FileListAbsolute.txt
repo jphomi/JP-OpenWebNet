@@ -1,0 +1,8 @@
+C:\Users\mll\Documents\GitHub\JP-OpenWebNet\OpenWebNet2.0\OpenWebNet\bin\Release\OpenWebNet.dll
+C:\Users\mll\Documents\GitHub\JP-OpenWebNet\OpenWebNet2.0\OpenWebNet\bin\Release\OpenWebNet.pdb
+C:\Users\mll\Documents\GitHub\JP-OpenWebNet\OpenWebNet2.0\OpenWebNet\bin\Release\OpenWebNet.Common.dll
+C:\Users\mll\Documents\GitHub\JP-OpenWebNet\OpenWebNet2.0\OpenWebNet\bin\Release\UPnP.dll
+C:\Users\mll\Documents\GitHub\JP-OpenWebNet\OpenWebNet2.0\OpenWebNet\bin\Release\OpenWebNet.Common.pdb
+C:\Users\mll\Documents\GitHub\JP-OpenWebNet\OpenWebNet2.0\OpenWebNet\obj\Release\OpenWebNet.csprojResolveAssemblyReference.cache
+C:\Users\mll\Documents\GitHub\JP-OpenWebNet\OpenWebNet2.0\OpenWebNet\obj\Release\OpenWebNet.dll
+C:\Users\mll\Documents\GitHub\JP-OpenWebNet\OpenWebNet2.0\OpenWebNet\obj\Release\OpenWebNet.pdb
